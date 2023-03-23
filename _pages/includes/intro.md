@@ -1,4 +1,8 @@
 <!-- I work at [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore, doing some fundamental audio-related research.  -->
+## Summary
+Passionate about software development and data science, specialized in deep learning. Strong problem-solving and communication skills, fast learner, and thrives in fast-paced and competitive environments.
+
+I am currently seeking a full-time summer vacation internship starting May 1st, 2023 for 3 months, with availability for part-time work until graduation. 
 
 I am now working on GNN and computer vision research. If you are seeking any form of **academic cooperation**, please feel free to email me at [chongbinyuan@outlook.com](mailto:chongbinyuan@outlook.com).
 
